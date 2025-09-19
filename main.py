@@ -1,3 +1,5 @@
-print('Welcome to the Pretty in Pink Boutique catalog Chatbot')
+print('~*~Welcome to the Pretty in Pink Boutique Chatbot!')
 name = input('What is your name? ')
 age = input('Hello ' + name + ', how old are you? ')
+print ('Hello' + name + str age + 'Welcome!I know you are going to like it here!XD')
+print ('1. Check out an item \n 2. Return an item \n 3. Ask for the price of an item. \n 4. Exit')
